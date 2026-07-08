@@ -1,2 +1,2 @@
-# os_boot_manager.v-1.1
+# os_boot_manager
 быстрый и удобный проводник (версия 1.1) для Windows и Linux на Python — лучше всего на 3.10 или новее(a fast and convenient file explorer (version 1.1) for Windows and Linux in Python, preferably 3.10 or later) (добавлена функция удаления с помощью delete)(Delete function added) В версиях 1.1 и 1.2 английский язык не поддерживается. Если вам нужен английский — пожалуйста, выберите версию 1.0, она тоже представлена(Versions 1.1 and 1.2 do not support the English language. If you need English, please select version 1.0 — it is also available)
